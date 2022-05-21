@@ -9,6 +9,8 @@
 <body>
     <div class="action">
 
+    // ici on va passer à l'utilisation d'une boucle pour essayer notre projet
+
     @foreach($users as $user)
 
     <div>
